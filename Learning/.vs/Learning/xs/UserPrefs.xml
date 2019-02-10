@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{32735DBE-EA04-BA93-51D8-1BE73F9E6252}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Raycaster.cs">
+    <Files>
+      <File FileName="Assets/Raycaster.cs" Line="20" Column="13" />
+      <File FileName="Assets/Interactable.cs" Line="8" Column="38" />
+      <File FileName="Assets/CubeInteraction.cs" Line="23" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
